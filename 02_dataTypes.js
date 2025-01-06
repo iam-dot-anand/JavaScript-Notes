@@ -11,3 +11,16 @@ console.log(typeof undefined); // undefined
 console.log(typeof null); // object
 
 
+// Data Types 
+// premitive datatypes ->7
+//  string, number, biginit, boolean, null, undefined, symbol
+// non-premitive datatypes
+// array, object, function
+const arr=["anand", "vishwakarma","abcd","xyz"];
+console.log(typeof(arr));
+
+const obj={
+    name:"anand",
+    age:"24"
+}
+console.log(typeof(obj));
