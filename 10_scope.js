@@ -1,0 +1,1 @@
+// global ascope and local scope
